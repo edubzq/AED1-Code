@@ -1,1 +1,2 @@
-"# AED1-Code" 
+# AED1-Code
+Ejercicios asignatura Algoritmos y Estructuras de Datos I
